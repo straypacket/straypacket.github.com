@@ -1,10 +1,8 @@
 ---
 layout: post
-category : first
-tags : [first post, too much time in my hands]
+title: "First post"
+description: ""
+category: 
+tags: []
 ---
 {% include JB/setup %}
-
-## Hello world
-First post :)
-
