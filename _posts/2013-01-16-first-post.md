@@ -1,7 +1,7 @@
 ---
 layout: post
 category : first
-tags : [first, too much time in my hands]
+tags : [first post, too much time in my hands]
 ---
 
 ## Hello world
